@@ -50,48 +50,7 @@
 
 </div>
 
-I'm a **BS Computer Science student from Okara, Pakistan**, passionate about transforming ideas into real, usable software.
 
-My interests sit at the intersection of:
-
-`Artificial Intelligence` • `Software Engineering` • `Android Development` • `Full-Stack Development` • `Automation`
-
-I don't want to simply learn technologies.
-
-<div align="center">
-
-## **I want to build with them. 🚀**
-
-</div>
-
-This GitHub profile is my **digital workshop** — a place where I experiment, build applications, explore AI, solve problems, and turn ideas into working projects.
-
----
-
-# ⚡ My Development Mindset
-
-<div align="center">
-
-```text
-        💡 IDEA
-           │
-           ▼
-       🧠 LEARN
-           │
-           ▼
-       🛠️ BUILD
-           │
-           ▼
-       🧪 TEST
-           │
-           ▼
-       🚀 SHIP
-           │
-           ▼
-       📈 IMPROVE
-           │
-           └──────────────► 🔁 REPEAT
-```
 
 ### Learn → Build → Break → Fix → Improve → Ship
 
