@@ -54,15 +54,12 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=💻+Software+Developer;🤖+AI+Explorer;📱+Android+Developer;🚀+Builder+%26+Problem+Solver" alt="Developer Roles"/>
+
+### 💻 Software Developer • 🤖 AI Explorer • 📱 Android Developer
+
+**Building real software, learning continuously, and turning ideas into working products.**
 
 <br>
-
-> **Building real software, learning continuously, and turning ideas into working products.**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C6FF,50:6C63FF,100:00F5A0&height=4&width=650" width="65%"/>
 
 </div>
 
@@ -185,13 +182,11 @@
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MUdevelops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00C6FF&icon_color=6C63FF&text_color=ffffff" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUdevelops&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F5A0&text_color=ffffff" height="180" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MUdevelops&theme=tokyonight&hide_border=true&background=00000000&ring=00C6FF&fire=00F5A0&currStreakLabel=6C63FF" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MUdevelops&theme=tokyonight&hide_border=true&background=00000000&ring=00C6FF&fire=00F5A0&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+
 
 </div>
 
@@ -266,7 +261,6 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=750&lines=⭐+Explore+the+repositories.;Open+the+code.;Build+something+awesome." alt="Connect Animation"/>
 
 </div>
 
