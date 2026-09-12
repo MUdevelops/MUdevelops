@@ -40,17 +40,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=85&text=HELLO%20CODER&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<br><br>
-
 <img src="./Assets/Hello%20Coding.gif" width="620" alt="Hello Coder Animation"/>
 
 </div>
 
 ---
 
-# 👋 Muhammad Umar Jamal
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=90&text=🛠️%20MUHAMMAD%20UMAR%20JAMAL&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
