@@ -42,7 +42,7 @@
 
 <br>
 
-`Learn` → `Build` → `Break` → `Fix` → `Improve` → `Ship`
+
 
 </div>
 
@@ -98,7 +98,7 @@
 
 ---
 
-# 🌌 What I Build
+
 
 <div align="center">
 
@@ -122,32 +122,6 @@
 <br><br>
 
 `AI` • `Android` • `Full-Stack` • `Automation` • `Prompt Engineering`
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MUdevelops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MUdevelops&theme=tokyonight&hide_border=true" height="180"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUdevelops&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
----
-
-# 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MUdevelops/MUdevelops/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
