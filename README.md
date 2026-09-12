@@ -30,6 +30,8 @@
 
 </div>
 
+<img src="./Assets/Hello%20Coding.gif" width="520" alt="Hello Coders">
+
 ---
 
 # 👋 Hey, I'm Muhammad Umar Jamal
