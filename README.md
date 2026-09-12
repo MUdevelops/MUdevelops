@@ -72,33 +72,7 @@
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/MUdevelops/Documind_AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=Documind_AI&theme=tokyonight&hide_border=true&border_radius=12"/>
-</a>
-
-<a href="https://github.com/MUdevelops/Machine-Learning-Forge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=Machine-Learning-Forge&theme=tokyonight&hide_border=true&border_radius=12"/>
-</a>
-
-<br>
-
-<a href="https://github.com/MUdevelops/Marcus-PC-Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=Marcus-PC-Assistant&theme=tokyonight&hide_border=true&border_radius=12"/>
-</a>
-
-<a href="https://github.com/MUdevelops/GPA-Calculator-Android">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=GPA-Calculator-Android&theme=tokyonight&hide_border=true&border_radius=12"/>
-</a>
-
-</div>
-
----
-
-
+# 🎨 Crafts
 
 <div align="center">
 
