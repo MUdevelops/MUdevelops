@@ -1,154 +1,199 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
 
-<!--                         ANIMATED HERO                              -->
+<!--                          PREMIUM HERO                                 -->
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C6FF,100:00F5A0&height=220&section=header&text=MUdevelops&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Build%20%7C%20Learn%20%7C%20Create%20%7C%20Innovate&descAlignY=62&descSize=20" width="100%"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+AI+%7C+Full-Stack+%7C+Android;Building+Real+Software%2C+Not+Just+Prototypes;Turning+Ideas+Into+Working+Projects;Exploring+AI+%E2%80%A2+Automation+%E2%80%A2+Mobile+%E2%80%A2+Web;Welcome+to+my+Digital+Workshop+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00C6FF,75:00F5A0,100:6C63FF&height=230&section=header&text=MUdevelops&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&descAlignY=62&descSize=18&descColor=ffffff" width="100%"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=900&lines=Software+Developer+%7C+AI+Explorer+%7C+Android+Developer;Building+Real+Software%2C+Not+Just+Prototypes;Turning+Ideas+Into+Working+Projects;AI+%E2%80%A2+Automation+%E2%80%A2+Mobile+%E2%80%A2+Web;Welcome+to+my+Digital+Workshop+%F0%9F%9A%80" alt="Typing Animation"/>
+
+<br><br>
 
 <a href="https://github.com/MUdevelops">
-<img src="https://img.shields.io/badge/GitHub-MUdevelops-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-MUdevelops-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://m-umar-jamal.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 <a href="https://github.com/MUdevelops?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-Explore%20Repositories-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Projects-Explore%20Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=MUdevelops&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=MUdevelops&label=PROFILE%20VIEWS&color=00C6FF&style=for-the-badge"/>
 
 </div>
 
-<img src="./Assets/Hello%20Coding.gif" width="520" alt="Hello Coders">
+---
+
+<div align="center">
+
+<img src="./Assets/Hello%20Coding.gif" width="560" alt="Hello Coder"/>
+
+</div>
 
 ---
 
 # 👋 Hey, I'm Muhammad Umar Jamal
 
-> **Motivated Software Developer | AI Explorer | Full-Stack Builder | Android Developer in Progress**
+<div align="center">
 
-I'm a **BS Computer Science student** from **Okara, Pakistan**, currently exploring the intersection of **Software Development, Artificial Intelligence, Web Applications, and Android Development**.
+### 💻 Software Developer • 🤖 AI Explorer • 📱 Android Developer • 🚀 Builder
 
-I don't want to just learn technologies.
+</div>
 
-### I want to **build with them.** 🚀
+I'm a **BS Computer Science student from Okara, Pakistan**, passionate about transforming ideas into real, usable software.
 
-My GitHub is my digital workshop — a collection of experiments, complete applications, AI systems, automation tools, academic projects, and ideas that I'm continuously turning into real software.
+My interests sit at the intersection of:
 
-```text
-💡 Idea
-   ↓
-🧠 Learn
-   ↓
-🛠️ Build
-   ↓
-🧪 Test
-   ↓
-🚀 Ship
-   ↓
-📈 Improve
-```
+`Artificial Intelligence` • `Software Engineering` • `Android Development` • `Full-Stack Development` • `Automation`
+
+I don't want to simply learn technologies.
+
+<div align="center">
+
+## **I want to build with them. 🚀**
+
+</div>
+
+This GitHub profile is my **digital workshop** — a place where I experiment, build applications, explore AI, solve problems, and turn ideas into working projects.
 
 ---
 
-# ⚡ What I Do
+# ⚡ My Development Mindset
+
+<div align="center">
+
+```text
+        💡 IDEA
+           │
+           ▼
+       🧠 LEARN
+           │
+           ▼
+       🛠️ BUILD
+           │
+           ▼
+       🧪 TEST
+           │
+           ▼
+       🚀 SHIP
+           │
+           ▼
+       📈 IMPROVE
+           │
+           └──────────────► 🔁 REPEAT
+```
+
+### Learn → Build → Break → Fix → Improve → Ship
+
+</div>
+
+---
+
+# 🧠 What I Build
 
 <table>
 <tr>
-<td width="50%">
 
-### 🤖 Artificial Intelligence
+<td width="50%" valign="top">
 
-• Machine Learning
-• Computer Vision
-• Face Recognition
-• Emotion Detection
-• RAG & Document Intelligence
-• AI-powered applications
+## 🤖 Artificial Intelligence
+
+* Machine Learning
+* Computer Vision
+* Face Recognition
+* Emotion Detection
+* RAG & Document Intelligence
+* AI-powered applications
+* AI-assisted development
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💻 Software Engineering
+
+* Python applications
+* Full-stack systems
+* REST APIs
+* Database applications
+* Automation tools
+* Developer utilities
+* Desktop software
 
 </td>
 
-<td width="50%">
-
-### 💻 Software Development
-
-• Python Applications
-• Full-Stack Web Development
-• REST APIs
-• Database Systems
-• Automation
-• Desktop Applications
-
-</td>
 </tr>
 
 <tr>
-<td>
 
-### 📱 Android Development
+<td width="50%" valign="top">
 
-• Kotlin
-• Android Studio
-• Android UI
-• Local Storage
-• API Integration
-• AI-powered mobile apps
+## 📱 Android Development
+
+* Kotlin
+* Android Studio
+* Android UI
+* Local storage
+* API integration
+* Productivity applications
+* AI-powered mobile concepts
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🧪 Experimental Builds
+
+* Trading utilities
+* Productivity tools
+* Academic systems
+* Automation projects
+* Creative software
+* AI workflows
+* Developer experiments
 
 </td>
 
-<td>
-
-### 🧪 Experimental Projects
-
-• Developer Tools
-• Trading Utilities
-• Productivity Apps
-• Academic Systems
-• Automation Projects
-• Creative Software
-
-</td>
 </tr>
 </table>
 
 ---
 
-# 🧰 Technology Arsenal
+# 🛠️ Technology Arsenal
 
 <div align="center">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,kotlin,js,html,css,bash,assembly" />
+<img src="https://skillicons.dev/icons?i=python,cpp,kotlin,js,html,css,bash&perline=7"/>
 
 <br><br>
 
 ### ⚙️ Frameworks & Development
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,androidstudio,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,androidstudio,tailwind,vite&perline=7"/>
 
 <br><br>
 
-### 🗄️ Databases & AI
+### 🧠 AI & Data
 
-<img src="https://skillicons.dev/icons?i=sqlite,postgresql,mongodb,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sqlite,postgresql,mongodb&perline=6"/>
 
 <br><br>
 
-### 🛠️ Tools
+### 🧰 Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,linux,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux,postman&perline=7"/>
 
 </div>
 
@@ -156,41 +201,43 @@ My GitHub is my digital workshop — a collection of experiments, complete appli
 
 # 🚀 Featured Projects
 
-> **Don't just read about them — explore the repositories.**
-
 <div align="center">
 
+### 🧠 AI • 📱 Android • 💻 Software • 🛠️ Developer Tools
+
+<br>
+
 <a href="https://github.com/MUdevelops/Documind_AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=Documind_AI&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=Documind_AI&theme=tokyonight&hide_border=true&border_radius=12"/>
 </a>
 
 <a href="https://github.com/MUdevelops/Machine-Learning-Forge">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=Machine-Learning-Forge&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=Machine-Learning-Forge&theme=tokyonight&hide_border=true&border_radius=12"/>
 </a>
 
 <br>
 
 <a href="https://github.com/MUdevelops/Marcus-PC-Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=Marcus-PC-Assistant&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=Marcus-PC-Assistant&theme=tokyonight&hide_border=true&border_radius=12"/>
 </a>
 
 <a href="https://github.com/MUdevelops/GPA-Calculator-Android">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=GPA-Calculator-Android&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=MUdevelops&repo=GPA-Calculator-Android&theme=tokyonight&hide_border=true&border_radius=12"/>
 </a>
 
 </div>
 
 ---
 
-# 🔥 Project Universe
+# 🌌 Project Universe
 
 <div align="center">
 
 |       🧠 AI & ML       |    📱 Android    |   🌐 Full Stack   |
 | :--------------------: | :--------------: | :---------------: |
 | Machine Learning Forge |  GPA Calculator  |  Web Applications |
-|    Face Recognition    | Android Projects |     REST APIs     |
-|    Emotion Detection   |    Kotlin Apps   |  Database Systems |
+|    Face Recognition    |    Kotlin Apps   |     REST APIs     |
+|    Emotion Detection   | Android Projects |  Database Systems |
 |       DocuMind AI      |  AI Mobile Apps  | Real-Time Systems |
 
 | 🛠️ Developer Tools |    🤖 Automation   |     🎓 Academic     |
@@ -204,7 +251,13 @@ My GitHub is my digital workshop — a collection of experiments, complete appli
 
 ---
 
-# 🧠 Currently Exploring
+# 🔥 Currently Exploring
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;AI+Software+Engineering;Android+Development;Full-Stack+Development;Prompt+Engineering;AI-Assisted+Development" alt="Currently Exploring"/>
+
+</div>
 
 ```yaml
 2026:
@@ -223,53 +276,51 @@ My GitHub is my digital workshop — a collection of experiments, complete appli
     - Improve continuously
 ```
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Currently+Learning+%E2%86%92+Android+%2B+AI;Currently+Building+%E2%86%92+Real+World+Software;Currently+Improving+%E2%86%92+Every+Day" />
-
-</div>
-
 ---
 
-# 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MUdevelops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MUdevelops&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" height="180"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUdevelops&theme=tokyonight&hide_border=true" height="180"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUdevelops&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
-</div>
-
----
-
-# 🐍 My Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MUdevelops/MUdevelops/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUdevelops&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
 
 </div>
 
 ---
 
-# 🎯 My Developer Philosophy
+# 🐍 Contribution Journey
 
 <div align="center">
 
-### `"Don't just consume technology. Build with it."`
+<img src="https://raw.githubusercontent.com/MUdevelops/MUdevelops/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🎯 Developer Philosophy
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=4&section=header" width="75%"/>
+
+<br><br>
+
+## `"Don't just consume technology. Build with it."`
 
 <br>
 
-**Learn → Build → Break → Fix → Improve → Ship**
+### Learn → Build → Break → Fix → Improve → Ship
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="80%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Ideas+are+cheap.+Working+software+is+valuable.;Build+something+real.;Keep+learning.+Keep+building.+Keep+shipping." alt="Developer Philosophy"/>
 
 </div>
 
@@ -281,14 +332,71 @@ My GitHub is my digital workshop — a collection of experiments, complete appli
 
 <table>
 <tr>
-<td align="center">🧠<br><b>AI Projects</b><br>Real AI experiments & systems</td>
-<td align="center">📱<br><b>Applications</b><br>Useful software projects</td>
-<td align="center">💻<br><b>Source Code</b><br>Learn from implementation</td>
+
+<td align="center" width="33%">
+
+### 🧠
+
+### AI Projects
+
+Real AI experiments, models & intelligent systems
+
+</td>
+
+<td align="center" width="33%">
+
+### 📱
+
+### Applications
+
+Useful software built around real problems
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻
+
+### Source Code
+
+Explore implementations and development ideas
+
+</td>
+
 </tr>
+
 <tr>
-<td align="center">🚀<br><b>Experiments</b><br>New ideas constantly tested</td>
-<td align="center">🎨<br><b>Creative Builds</b><br>Technology + creativity</td>
-<td align="center">📈<br><b>Growth</b><br>Projects evolving over time</td>
+
+<td align="center">
+
+### 🚀
+
+### Experiments
+
+New ideas constantly being tested
+
+</td>
+
+<td align="center">
+
+### 🎨
+
+### Creative Builds
+
+Technology combined with creativity
+
+</td>
+
+<td align="center">
+
+### 📈
+
+### Growth
+
+Projects continuously evolving
+
+</td>
+
 </tr>
 </table>
 
@@ -298,36 +406,42 @@ My GitHub is my digital workshop — a collection of experiments, complete appli
 
 # 🗺️ My Development Journey
 
+<div align="center">
+
 ```text
-              ┌─────────────────────┐
-              │     CURIOUS MIND    │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │      LEARNING       │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │      BUILDING       │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │     EXPERIMENTING   │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │       SHIPPING      │
-              └──────────┬──────────┘
-                         │
-                         ▼
-              ┌─────────────────────┐
-              │      REPEATING      │
-              └─────────────────────┘
+┌───────────────────────────────┐
+│        💭 CURIOUS MIND        │
+└───────────────┬───────────────┘
+                │
+                ▼
+┌───────────────────────────────┐
+│          🧠 LEARNING          │
+└───────────────┬───────────────┘
+                │
+                ▼
+┌───────────────────────────────┐
+│          🛠️ BUILDING          │
+└───────────────┬───────────────┘
+                │
+                ▼
+┌───────────────────────────────┐
+│       🧪 EXPERIMENTING        │
+└───────────────┬───────────────┘
+                │
+                ▼
+┌───────────────────────────────┐
+│          🚀 SHIPPING          │
+└───────────────┬───────────────┘
+                │
+                ▼
+┌───────────────────────────────┐
+│         📈 IMPROVING          │
+└───────────────┬───────────────┘
+                │
+                └──────────────► 🔁 REPEAT
 ```
+
+</div>
 
 ---
 
@@ -349,6 +463,10 @@ My GitHub is my digital workshop — a collection of experiments, complete appli
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=00F5A0&center=true&vCenter=true&width=750&lines=Looking+for+interesting+problems+to+solve;Open+to+learning%2C+building+and+collaborating;Let's+turn+ideas+into+working+software+%F0%9F%9A%80" alt="Opportunities"/>
+
+<br><br>
+
 **If you have an interesting idea, let's build it.**
 
 </div>
@@ -360,17 +478,17 @@ My GitHub is my digital workshop — a collection of experiments, complete appli
 <div align="center">
 
 <a href="https://m-umar-jamal.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00C6FF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge&logoColor=white"/>
 </a>
 
 <a href="https://github.com/MUdevelops">
-<img src="https://img.shields.io/badge/GitHub-MUdevelops-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
 <a href="https://github.com/MUdevelops?tab=repositories">
-<img src="https://img.shields.io/badge/🚀%20EXPLORE%20ALL%20PROJECTS-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀%20EXPLORE%20ALL%20PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -379,18 +497,18 @@ My GitHub is my digital workshop — a collection of experiments, complete appli
 
 <div align="center">
 
-### 👀 If you came this far...
+## 👀 Still Here?
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00F5A0&center=true&vCenter=true&width=700&lines=You+should+probably+explore+the+repositories+%F0%9F%91%80;There+is+always+something+new+being+built+%F0%9F%9A%80;Pick+a+project.+Open+the+code.+Let's+build." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2600&pause=800&color=00C6FF&center=true&vCenter=true&width=780&lines=You+should+probably+explore+the+repositories+%F0%9F%91%80;There+is+always+something+new+being+built+%F0%9F%9A%80;Pick+a+project.+Open+the+code.+Let's+build." alt="Final Message"/>
 
-<br>
+<br><br>
 
 <a href="https://github.com/MUdevelops?tab=repositories">
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20EXPLORE%20MY%20REPOSITORIES-%2300C6FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20EXPLORE%20MY%20REPOSITORIES-00C6FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C6FF,100:6C63FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,45:00C6FF,75:6C63FF,100:00F5A0&height=130&section=footer" width="100%"/>
 
 </div>
