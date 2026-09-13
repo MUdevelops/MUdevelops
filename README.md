@@ -74,7 +74,7 @@
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,rust,go,swift,dart,cpp,c,kotlin,js,java,html,typescript,php,css,bash&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,rust,go,swift,cpp,c,kotlin,js,java,html,typescript,php,css,bash&perline=7"/>
 
 <br><br>
 
