@@ -2,7 +2,15 @@
 
 <!-- ==================== HERO ==================== -->
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00C6FF,75:00F5A0,100:6C63FF&height=240&section=header&text=MUdevelops&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=BUILD%20%7C%20LEARN%20%7C%20CREATE%20%7C%20SHIP&descAlignY=62&descSize=18&descColor=FFFFFF&animation=fadeIn" width="100%" alt="MUdevelops Header"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=Software+Developer+%7C+Problem+Solver;Building+Real+World+Software;AI+%7C+Android+%7C+Full+Stack;Turning+Ideas+Into+Working+Projects;Code.+Create.+Ship." alt="Typing Animation"/>
+
+</div>
 
 <br>
 
