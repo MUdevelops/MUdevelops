@@ -2,7 +2,7 @@
 
 <!-- ==================== HERO ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00C6FF,75:00F5A0,100:6C63FF&height=240&section=header&text=MUdevelops&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE%20%E2%80%A2%20SHIP&descAlignY=62&descSize=18&descColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00C6FF,75:00F5A0,100:6C63FF&height=240&section=header&text=MUdevelops&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=BUILD%20%7C%20LEARN%20%7C%20CREATE%20%7C%20SHIP&descAlignY=62&descSize=18&descColor=FFFFFF&animation=fadeIn" width="100%" alt="MUdevelops Header"/>
 
 <br>
 
