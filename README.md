@@ -2,15 +2,23 @@
 
 <!-- ==================== HERO ==================== -->
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:00C6FF,75:00F5A0,100:6C63FF&height=240&section=header&text=MUdevelops&fontSize=72&fontColor=FFFFFF&fontAlignY=36&desc=BUILD%20%7C%20LEARN%20%7C%20CREATE%20%7C%20SHIP&descAlignY=62&descSize=18&descColor=FFFFFF&animation=fadeIn" width="100%" alt="MUdevelops Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:2563EB,50:7C3AED,75:06B6D4,100:0F172A&height=250&section=header&text=MUdevelops&fontSize=76&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%E2%80%A2%20LEARN%20%E2%80%A2%20CREATE%20%E2%80%A2%20SHIP&descAlignY=62&descSize=18&descColor=FFFFFF&animation=fadeIn" width="100%" alt="MUdevelops"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=Software+Developer+%7C+Problem+Solver;Building+Real+World+Software;AI+%7C+Android+%7C+Full+Stack;Turning+Ideas+Into+Working+Projects;Code.+Create.+Ship." alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=850&lines=Software+Developer+%7C+Problem+Solver;I+Build+Software+That+Actually+Works;AI+%7C+Android+%7C+Full+Stack;From+Ideas+%E2%86%92+Code+%E2%86%92+Real+Projects;Learning+Today.+Building+Tomorrow.;Code+%E2%80%A2+Create+%E2%80%A2+Ship" alt="MUdevelops Typing Animation"/>
 
-</div>
+<br><br>
+
+<img src="https://img.shields.io/badge/💻_Software_Developer-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_AI_%26_ML-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📱_Android-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Open_to_Opportunities-0F172A?style=for-the-badge"/>
+
+<br><br>
+
+
 
 <br>
 
