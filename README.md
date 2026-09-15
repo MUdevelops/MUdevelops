@@ -173,24 +173,6 @@
 
 ---
 
-<!-- ==================== GITHUB ACTIVITY ==================== -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=90&text=📊%20GITHUB%20ACTIVITY&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MUdevelops&theme=tokyonight&hide_border=true&background=00000000&ring=00C6FF&fire=00F5A0&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-
-<br><br>
-
-
-
-</div>
-
----
-
 <!-- ==================== CONTRIBUTIONS ==================== -->
 
 <div align="center">
