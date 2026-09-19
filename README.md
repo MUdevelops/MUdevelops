@@ -455,18 +455,9 @@ A real-world employee management system combining attendance, face recognition, 
 
 <br><br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=MUdevelops&show_icons=true&theme=tokyonight"
-  alt="MUdevelops GitHub Stats"
-/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUdevelops&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=7C3AED&fire=06B6D4&currStreakLabel=00F5A0" alt="GitHub Streak" height="165"/>
 
-<br><br>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUdevelops&layout=compact&theme=tokyonight"
-  alt="MUdevelops Top Languages"
-/>
 
 </div>
 
