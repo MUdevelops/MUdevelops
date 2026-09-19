@@ -1,16 +1,14 @@
 <div align="center">
 
 <!-- ========================================================= -->
-
 <!-- HERO -->
-
 <!-- ========================================================= -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,50:7C3AED,100:06B6D4&height=230&section=header&text=MUdevelops&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=APPLICATION%20ENGINEERING%20%7C%20AI%20%7C%20SOFTWARE&descAlignY=60&descSize=17&descColor=FFFFFF&animation=fadeIn" width="100%" alt="MUdevelops Application Engineering Header"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:2563EB,50:7C3AED,100:06B6D4&height=230&section=header&text=MUdevelops&fontSize=72&fontColor=FFFFFF&fontAlignY=38&desc=APPLICATION%20ENGINEERING%20%7C%20AI%20%7C%20SOFTWARE&descAlignY=60&descSize=17&descColor=FFFFFF&animation=fadeIn" width="100%" alt="MUdevelops Header"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=950&lines=AI+Application+Engineer;Building+Real+Software%2C+Not+Just+Prototypes;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+APIs;React+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+TypeScript;Turning+Ideas+Into+Working+Applications" alt="Application Engineering Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=950&lines=AI+Application+Engineer;Building+Real+Software%2C+Not+Just+Prototypes;LLMs+%E2%80%A2+RAG+%E2%80%A2+AI+Agents+%E2%80%A2+APIs;React+%E2%80%A2+Python+%E2%80%A2+FastAPI+%E2%80%A2+TypeScript;Turning+Ideas+Into+Working+Applications" alt="Typing Animation"/>
 
 <br><br>
 
@@ -39,9 +37,7 @@
 ---
 
 <!-- ========================================================= -->
-
 <!-- INTRO -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -67,9 +63,7 @@
 ---
 
 <!-- ========================================================= -->
-
 <!-- ABOUT -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -86,49 +80,46 @@ My current direction combines:
 
 ```text
 ┌───────────────────────────────────────────────────────┐
-│                 APPLICATION ENGINEERING               │
+│                 APPLICATION ENGINEERING                │
 ├───────────────────────────────────────────────────────┤
-│                                                       │
-│   🤖 AI Applications                                  │
-│      ├── LLM Applications                             │
-│      ├── RAG Systems                                  │
-│      ├── AI Agents                                    │
-│      └── Intelligent Automation                       │
-│                                                       │
-│   🌐 Application Development                          │
-│      ├── React / TypeScript                           │
-│      ├── Python / FastAPI                             │
-│      ├── REST APIs                                    │
-│      └── Full-Stack Systems                           │
-│                                                       │
-│   🧠 Intelligent Systems                              │
-│      ├── Computer Vision                              │
-│      ├── Document Intelligence                        │
-│      ├── AI Assistants                                │
-│      └── Automation                                   │
-│                                                       │
-│   ⚙️ Engineering                                     │
-│      ├── Databases                                    │
-│      ├── Authentication                               │
-│      ├── Docker                                       │
-│      ├── Testing                                      │
-│      └── CI/CD                                        │
-│                                                       │
+│                                                          │
+│   🤖 AI Applications                                    │
+│      ├── LLM Applications                               │
+│      ├── RAG Systems                                    │
+│      ├── AI Agents                                      │
+│      └── Intelligent Automation                         │
+│                                                          │
+│   🌐 Application Development                            │
+│      ├── React / TypeScript                             │
+│      ├── Python / FastAPI                               │
+│      ├── REST APIs                                      │
+│      └── Full-Stack Systems                              │
+│                                                          │
+│   🧠 Intelligent Systems                                 │
+│      ├── Computer Vision                                 │
+│      ├── Document Intelligence                           │
+│      ├── AI Assistants                                   │
+│      └── Automation                                      │
+│                                                          │
+│   ⚙️ Engineering                                        │
+│      ├── Databases                                       │
+│      ├── Authentication                                  │
+│      ├── Docker                                          │
+│      ├── Testing                                         │
+│      └── CI/CD                                           │
+│                                                          │
 └───────────────────────────────────────────────────────┘
 ```
 
 ### 💡 Engineering Philosophy
 
 > **Don't just build models. Build applications around them.**
-
 > **Don't just write code. Build systems that solve problems.**
 
 ---
 
 <!-- ========================================================= -->
-
 <!-- WHAT I BUILD -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -138,13 +129,13 @@ My current direction combines:
 <br><br>
 
 | 🤖 **AI APPLICATIONS** | 🌐 **APPLICATIONS** | ⚙️ **ENGINEERING** |
-| :--------------------: | :-----------------: | :----------------: |
-|    LLM Applications    |   Full-Stack Apps   |      REST APIs     |
-|       RAG Systems      |   Web Applications  |   Authentication   |
-|      AI Assistants     |     Android Apps    |      Databases     |
-|        AI Agents       |  Real-Time Systems  |       Docker       |
-|     Computer Vision    |   Developer Tools   |       Testing      |
-| Intelligent Automation |  Productivity Apps  |        CI/CD       |
+| :---------------------: | :------------------: | :------------------: |
+|    LLM Applications     |   Full-Stack Apps    |      REST APIs       |
+|       RAG Systems       |   Web Applications   |   Authentication      |
+|      AI Assistants      |     Android Apps     |      Databases        |
+|        AI Agents        |  Real-Time Systems   |       Docker          |
+|     Computer Vision     |   Developer Tools    |       Testing         |
+|  Intelligent Automation |  Productivity Apps   |        CI/CD          |
 
 <br>
 
@@ -155,9 +146,7 @@ My current direction combines:
 ---
 
 <!-- ========================================================= -->
-
 <!-- AI ENGINEERING -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -168,16 +157,16 @@ My current direction combines:
 
 ### 🤖 AI Systems I Work With
 
-| Area                    | Focus                                                       |
-| :---------------------- | :---------------------------------------------------------- |
-| 🧠 **LLM Applications** | AI-powered features, assistants & intelligent workflows     |
-| 📚 **RAG**              | Document retrieval, embeddings, semantic search & citations |
-| 🕸️ **AI Agents**       | Tool calling, workflows & autonomous task execution         |
-| 👁️ **Computer Vision** | Face recognition, image analysis & intelligent detection    |
-| 📄 **Document AI**      | PDF/DOCX processing, knowledge extraction & Q&A             |
-| 🎙️ **Voice AI**        | Speech interfaces & conversational applications             |
-| ⚡ **AI Automation**     | AI-powered productivity & workflow automation               |
-| 🦙 **Local AI**         | Local LLMs, privacy-focused AI & offline inference          |
+| Area | Focus |
+| :--- | :--- |
+| 🧠 **LLM Applications** | AI-powered features, assistants & intelligent workflows |
+| 📚 **RAG** | Document retrieval, embeddings, semantic search & citations |
+| 🕸️ **AI Agents** | Tool calling, workflows & autonomous task execution |
+| 👁️ **Computer Vision** | Face recognition, image analysis & intelligent detection |
+| 📄 **Document AI** | PDF/DOCX processing, knowledge extraction & Q&A |
+| 🎙️ **Voice AI** | Speech interfaces & conversational applications |
+| ⚡ **AI Automation** | AI-powered productivity & workflow automation |
+| 🦙 **Local AI** | Local LLMs, privacy-focused AI & offline inference |
 
 <br>
 
@@ -202,15 +191,15 @@ My current direction combines:
              ┌───────┴────────┐
              ▼                ▼
        ┌───────────┐    ┌────────────┐
-       │ AI ENGINE │    │ DATABASE   │
-       │ LLM / RAG │    │ SQL /      │
-       │ Agents    │    │ Vector DB  │
+       │ AI ENGINE │    │  DATABASE  │
+       │ LLM / RAG │    │  SQL /     │
+       │  Agents   │    │  Vector DB │
        └─────┬─────┘    └────────────┘
              │
              ▼
        ┌─────────────┐
        │ AI RESPONSE │
-       │ / ACTION    │
+       │  / ACTION   │
        └─────────────┘
 ```
 
@@ -219,9 +208,7 @@ My current direction combines:
 ---
 
 <!-- ========================================================= -->
-
 <!-- TECH STACK -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -240,7 +227,7 @@ My current direction combines:
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=6"/>
 
-<br><br>
+<br>
 
 **LLMs • RAG • Embeddings • Vector Search • AI Agents • Computer Vision • Prompt Engineering • Local AI**
 
@@ -271,9 +258,7 @@ My current direction combines:
 ---
 
 <!-- ========================================================= -->
-
 <!-- FEATURED PROJECTS -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -283,7 +268,6 @@ My current direction combines:
 <br><br>
 
 ### 📚 DocuMind AI
-
 **Your documents. Your infrastructure. Your AI.**
 
 Local-first AI document intelligence and RAG platform for uploading documents, retrieving knowledge, and asking AI-powered questions with contextual answers.
@@ -295,7 +279,6 @@ Local-first AI document intelligence and RAG platform for uploading documents, r
 ---
 
 ### 🎯 IntervuAI
-
 **AI-powered interview intelligence.**
 
 An application focused on using AI to create interactive interview experiences, analyze responses, and provide intelligent feedback.
@@ -307,7 +290,6 @@ An application focused on using AI to create interactive interview experiences, 
 ---
 
 ### 🖥️ Marcus PC Assistant
-
 **An intelligent desktop assistant.**
 
 AI-powered desktop automation combining natural interaction with practical system-level functionality.
@@ -319,8 +301,7 @@ AI-powered desktop automation combining natural interaction with practical syste
 ---
 
 ### 🎨 FinDraw-AI
-
-**AI-Powered Intelligent Drawing & Shape Recognition.**
+**AI-powered intelligent drawing & shape recognition.**
 
 An intelligent drawing application capable of recognizing shapes and transforming user interaction into machine-understandable structures.
 
@@ -331,7 +312,6 @@ An intelligent drawing application capable of recognizing shapes and transformin
 ---
 
 ### 📍 GeoNizam
-
 **AI-powered workforce management.**
 
 A real-world employee management system combining attendance, face recognition, GPS tracking and intelligent verification.
@@ -349,9 +329,7 @@ A real-world employee management system combining attendance, face recognition, 
 ---
 
 <!-- ========================================================= -->
-
-<!-- APPLICATION ENGINEERING WORKFLOW -->
-
+<!-- HOW I BUILD -->
 <!-- ========================================================= -->
 
 <div align="center">
@@ -365,7 +343,7 @@ A real-world employee management system combining attendance, face recognition, 
           │
           ▼
    ┌───────────────┐
-   │ Problem       │
+   │    Problem    │
    │ Understanding │
    └───────┬───────┘
            │
@@ -407,9 +385,7 @@ A real-world employee management system combining attendance, face recognition, 
 ---
 
 <!-- ========================================================= -->
-
 <!-- CURRENTLY EXPLORING -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -433,9 +409,7 @@ A real-world employee management system combining attendance, face recognition, 
 ---
 
 <!-- ========================================================= -->
-
 <!-- ENGINEERING PRINCIPLES -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -444,16 +418,16 @@ A real-world employee management system combining attendance, face recognition, 
 
 <br><br>
 
-| Principle                   | Meaning                                                           |
-| :-------------------------- | :---------------------------------------------------------------- |
-| 🧩 **Solve Problems**       | Technology should serve a real problem                            |
-| 🏗️ **Build Systems**       | Think beyond isolated features                                    |
-| 🤖 **Use AI Intentionally** | AI should improve the application                                 |
-| 🧪 **Test**                 | Working software needs verification                               |
-| 🔐 **Build Securely**       | Protect users, data and credentials                               |
-| 📦 **Keep It Maintainable** | Clean structure beats unnecessary complexity                      |
-| 🚀 **Ship**                 | A finished application creates more value than an unfinished idea |
-| 📈 **Keep Improving**       | Every project is an opportunity to learn                          |
+| Principle | Meaning |
+| :--- | :--- |
+| 🧩 **Solve Problems** | Technology should serve a real problem |
+| 🏗️ **Build Systems** | Think beyond isolated features |
+| 🤖 **Use AI Intentionally** | AI should improve the application |
+| 🧪 **Test** | Working software needs verification |
+| 🔐 **Build Securely** | Protect users, data and credentials |
+| 📦 **Keep It Maintainable** | Clean structure beats unnecessary complexity |
+| 🚀 **Ship** | A finished application creates more value than an unfinished idea |
+| 📈 **Keep Improving** | Every project is an opportunity to learn |
 
 <br>
 
@@ -468,9 +442,7 @@ A real-world employee management system combining attendance, face recognition, 
 ---
 
 <!-- ========================================================= -->
-
 <!-- CONTRIBUTIONS -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -481,14 +453,21 @@ A real-world employee management system combining attendance, face recognition, 
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
 
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=MUdevelops&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&icon_color=7C3AED&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MUdevelops&theme=tokyonight&hide_border=true&background=0D1117&stroke=00C6FF&ring=7C3AED&fire=06B6D4&currStreakLabel=00F5A0" alt="GitHub Streak" height="165"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUdevelops&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C6FF&text_color=C9D1D9" alt="Top Languages"/>
+
 </div>
 
 ---
 
 <!-- ========================================================= -->
-
 <!-- OPEN TO OPPORTUNITIES -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -519,9 +498,7 @@ A real-world employee management system combining attendance, face recognition, 
 ---
 
 <!-- ========================================================= -->
-
 <!-- CONNECT -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -533,15 +510,11 @@ A real-world employee management system combining attendance, face recognition, 
 <a href="https://m-umar-jamal.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/MUdevelops">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-  
-
+&nbsp;&nbsp;
 <a href="https://github.com/MUdevelops?tab=repositories">
 <img src="https://img.shields.io/badge/🚀%20ALL%20PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -553,9 +526,7 @@ A real-world employee management system combining attendance, face recognition, 
 ---
 
 <!-- ========================================================= -->
-
 <!-- FOOTER -->
-
 <!-- ========================================================= -->
 
 <div align="center">
