@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 64" role="img" aria-label="Platinum divider">
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#9CA6B0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F4F7F9"/>
+      <stop offset="1" stop-color="#9CA6B0" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="30" y1="32" x2="1170" y2="32" stroke="url(#line)" stroke-width="2"/>
+  <polygon points="600,8 624,32 600,56 576,32" fill="#0D1117" stroke="#D9DEE3" stroke-width="2"/>
+  <circle cx="600" cy="32" r="4" fill="#9FEAFF"/>
+</svg>

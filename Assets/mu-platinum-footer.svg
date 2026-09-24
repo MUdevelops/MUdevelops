@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 160" role="img" aria-label="MUdevelops platinum footer">
+  <defs>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7F8994"/>
+      <stop offset="0.5" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#7F8994"/>
+    </linearGradient>
+    <linearGradient id="ice" x1="0" x2="1">
+      <stop offset="0" stop-color="#9FEAFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#9FEAFF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#9FEAFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="160" fill="#020305"/>
+  <path d="M0 122 C260 55, 480 142, 800 88 S 1300 52, 1600 112" fill="none" stroke="#37414B" stroke-width="22" opacity="0.18"/>
+  <path d="M0 122 C260 55, 480 142, 800 88 S 1300 52, 1600 112" fill="none" stroke="url(#metal)" stroke-width="2" opacity="0.8"/>
+  <path d="M100 122 C360 68, 530 132, 800 92 S 1260 66, 1500 110" fill="none" stroke="url(#ice)" stroke-width="2" opacity="0.66"/>
+  <g transform="translate(800 54)">
+    <polygon points="0,-25 25,0 0,25 -25,0" fill="#0D1117" stroke="#D9DEE3" stroke-width="2"/>
+    <circle cx="0" cy="0" r="4" fill="#9FEAFF"/>
+  </g>
+  <text x="800" y="148" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="5" fill="#9CA6B0">MUDEVELOPS  •  PLATINUM DIAMOND ENGINEERING</text>
+</svg>
