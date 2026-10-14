@@ -895,18 +895,56 @@ A Python desktop application that detects mood through facial expressions, voice
 <!-- FOOTER -->
 <!-- ========================================================= -->
 
+<!-- ========================================================= -->
+<!-- MUDEVELOPS — SIGNATURE FOOTER -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,35:1D4ED8,70:7C3AED,100:06B6D4&height=3&section=header" width="100%" alt="Blue violet cyan gradient divider"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=5&width=850" width="80%"/>
+<br/>
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=false&width=650&height=60&lines=MUdevelops" alt="MUdevelops"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=750&lines=BUILD+%E2%80%A2+INTEGRATE+%E2%80%A2+TEST+%E2%80%A2+SHIP;APPLICATION+ENGINEERING+%7C+AI+%7C+SOFTWARE;Thanks+for+visiting+MUdevelops+%F0%9F%9A%80" alt="Footer Animation"/>
+### BUILD • LEARN • INNOVATE • SHIP
 
-<br><br>
+**Engineering intelligent applications. Turning ideas into reality.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C6FF,100:6C63FF&height=140&section=footer" width="100%" alt="Footer"/>
+<br/>
+
+<img src="https://img.shields.io/badge/AI_APPLICATIONS-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Applications"/>
+<img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineering"/>
+<img src="https://img.shields.io/badge/REAL--WORLD_PROJECTS-0891B2?style=for-the-badge&logo=rocket&logoColor=white" alt="Real-world projects"/>
+
+<br/><br/>
+
+<a href="https://github.com/MUdevelops">
+  <img src="https://img.shields.io/badge/GitHub-MUdevelops-111827?style=for-the-badge&logo=github&logoColor=white" alt="Visit MUdevelops on GitHub"/>
+</a>
+&nbsp;
+<a href="https://m-umar-jamal.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0B1020?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Visit the MUdevelops portfolio"/>
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:7C3AED,100:06B6D4&height=1&section=header" width="70%" alt="Subtle blue and violet divider"/>
+
+<br/>
+
+*Crafted with curiosity, powered by code, driven by AI.*
+
+<sub>AI APPLICATION ENGINEER · SOFTWARE DEVELOPER</sub>
+
+<br/>
+
+<sub>© 2026 MUdevelops · Muhammad Umar Jamal</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C6FF,100:6C63FF&height=110&section=footer" width="100%" alt="MUdevelops signature wave in cyan, green, and violet"/>
 
 </div>
+
+<!-- =============== END MUDEVELOPS FOOTER =============== -->
