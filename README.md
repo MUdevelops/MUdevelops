@@ -871,6 +871,7 @@ A Python desktop application that detects mood through facial expressions, voice
   <img src="Assets/MUdevelops-Hero-preview.png" alt="AI Application Architecture Diagram — React, FastAPI, AI Agents, RAG, Vision AI, Vector Store, Document Store, and SQL Database" width="100%" />
 
 </div>
+<br><br>
 
 <a href="https://m-umar-jamal.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
