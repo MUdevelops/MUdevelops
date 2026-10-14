@@ -585,75 +585,249 @@ INTELLIGENT APPLICATIONS · CONNECTED SYSTEMS · PRODUCTION-MINDED ENGINEERING
 ---
 
 <!-- ========================================================= -->
-<!-- FEATURED PROJECTS -->
+<!-- FEATURED AI PROJECTS -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,50:00C6FF,100:6C63FF&height=90&text=🔥%20FEATURED%20AI%20APPLICATIONS&fontSize=31&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,20:1D4ED8,45:06B6D4,70:7C3AED,100:EC4899&height=110&text=🚀%20MY%20AI%20PROJECTS&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" alt="Featured AI Projects"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=BUILDING+INTELLIGENT+APPLICATIONS;FROM+LLMs+AND+RAG+TO+AI+AGENTS;COMPUTER+VISION+%7C+VOICE+AI+%7C+AUTOMATION" alt="AI Project Categories"/>
 
 <br><br>
 
-### 📚 DocuMind AI
+<img src="https://img.shields.io/badge/LLM_APPLICATIONS-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/INTELLIGENT_SYSTEMS-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMPUTER_VISION-0891B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-16A34A?style=for-the-badge"/>
+
+<br><br>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📚 <a href="https://github.com/MUdevelops/Documind_AI">DocuMind AI</a></h3>
+
+<img src="https://img.shields.io/badge/LOCAL--FIRST-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
+
 **Your documents. Your infrastructure. Your AI.**
 
-Local-first AI document intelligence and RAG platform for uploading documents, retrieving knowledge, and asking AI-powered questions with contextual answers.
-
-`Python` `FastAPI` `React` `TypeScript` `Ollama` `ChromaDB` `PostgreSQL`
+A privacy-focused document intelligence platform that uses local RAG to search documents, retrieve relevant information, and answer questions with contextual source citations.
 
 <br>
 
----
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ollama-111827?style=flat-square"/>
 
-### 🎯 IntervuAI
-**AI-powered interview intelligence.**
+<p>
+<a href="https://github.com/MUdevelops/Documind_AI"><strong>Explore Repository →</strong></a>
+</p>
 
-An application focused on using AI to create interactive interview experiences, analyze responses, and provide intelligent feedback.
+</td>
+<td width="50%" valign="top">
 
-`AI` `LLM` `Application Engineering` `Web`
+<h3>🎯 <a href="https://github.com/MUdevelops/IntervuAI">IntervuAI</a></h3>
 
-<br>
+<img src="https://img.shields.io/badge/INTERVIEW_AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VOICE_PRACTICE-0891B2?style=for-the-badge"/>
 
----
+**Practice smarter. Interview better.**
 
-### 🖥️ Marcus PC Assistant
-**An intelligent desktop assistant.**
-
-AI-powered desktop automation combining natural interaction with practical system-level functionality.
-
-`Python` `AI` `Automation` `Desktop`
-
-<br>
-
----
-
-### 🎨 FinDraw-AI
-**AI-powered intelligent drawing & shape recognition.**
-
-An intelligent drawing application capable of recognizing shapes and transforming user interaction into machine-understandable structures.
-
-`Python` `AI` `Computer Vision`
+An AI-powered interview coach offering role-based interview practice through voice and typing, with performance feedback to help users improve their answers and interview readiness.
 
 <br>
 
----
+<img src="https://img.shields.io/badge/AI_COACHING-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/SPEECH-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/FEEDBACK-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-### 📍 GeoNizam
-**AI-powered workforce management.**
+<p>
+<a href="https://github.com/MUdevelops/IntervuAI"><strong>Explore Repository →</strong></a>
+</p>
 
-A real-world employee management system combining attendance, face recognition, GPS tracking and intelligent verification.
+</td>
+</tr>
 
-`Python` `AI` `Face Recognition` `GPS` `Real-Time Systems`
+<tr>
+<td width="50%" valign="top">
+
+<h3>🕸️ <a href="https://github.com/MUdevelops/Gitma-AI">Gitma AI</a></h3>
+
+<img src="https://img.shields.io/badge/PERSONALIZED_AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DEVELOPER_TOOLS-2563EB?style=for-the-badge"/>
+
+**An AI assistant that knows my developer identity.**
+
+A personalized browser-based AI assistant built around the MUdevelops ecosystem, combining project-aware conversations, general AI chat, streaming responses, and code generation.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_CHAT-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/CODE_GENERATION-16A34A?style=flat-square"/>
+
+<p>
+<a href="https://github.com/MUdevelops/Gitma-AI"><strong>Explore Repository →</strong></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🔴 <a href="https://github.com/MUdevelops/Redora_AI">Redora AI</a></h3>
+
+<img src="https://img.shields.io/badge/CUSTOMER_SUPPORT-DC2626?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_FALLBACK-7C3AED?style=for-the-badge"/>
+
+**Customer support that actually understands.**
+
+An AI customer-support chatbot designed to handle common questions with instant local responses and switch to AI-powered answers when additional intelligence is needed.
+
+<br>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/CHATBOT-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square"/>
+
+<p>
+<a href="https://github.com/MUdevelops/Redora_AI"><strong>Explore Repository →</strong></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🎙️ <a href="https://github.com/MUdevelops/Marcus-PC-Assistant">Marcus PC Assistant</a></h3>
+
+<img src="https://img.shields.io/badge/VOICE_AI-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DESKTOP_AUTOMATION-0891B2?style=for-the-badge"/>
+
+**Your PC. Your voice. Your assistant.**
+
+A futuristic, Jarvis-inspired Windows voice assistant that lets users interact with their PC through natural voice commands and practical desktop automation.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/VOICE_COMMANDS-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/WINDOWS-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+
+<p>
+<a href="https://github.com/MUdevelops/Marcus-PC-Assistant"><strong>Explore Repository →</strong></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎨 <a href="https://github.com/MUdevelops/FinDraw-AI">FinDraw-AI</a></h3>
+
+<img src="https://img.shields.io/badge/COMPUTER_VISION-0D9488?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHAPE_RECOGNITION-0891B2?style=for-the-badge"/>
+
+**Draw. Detect. Understand.**
+
+An intelligent drawing application that recognizes hand-drawn geometric shapes and transforms rough sketches into cleaner, structured visual elements.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tkinter-0F766E?style=flat-square"/>
+<img src="https://img.shields.io/badge/IMAGE_ANALYSIS-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/SHAPE_AI-7C3AED?style=flat-square"/>
+
+<p>
+<a href="https://github.com/MUdevelops/FinDraw-AI"><strong>Explore Repository →</strong></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3>🧪 <a href="https://github.com/MUdevelops/Machine-Learning-Forge">Machine Learning Forge</a></h3>
+
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/10_PREDICTIVE_MODELS-2563EB?style=for-the-badge"/>
+
+**Experiment. Evaluate. Learn.**
+
+A hands-on machine learning laboratory exploring ten predictive models with practical experiments, model evaluation, and visual analysis using real datasets.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PREDICTION-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/MODEL_EVALUATION-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/DATA_ANALYSIS-16A34A?style=flat-square"/>
+
+<p>
+<a href="https://github.com/MUdevelops/Machine-Learning-Forge"><strong>Explore Repository →</strong></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🎵 <a href="https://github.com/MUdevelops/EBMP-Emotion-Based-Music-Player">Emotion-Based Music Player</a></h3>
+
+<img src="https://img.shields.io/badge/EMOTION_AI-DB2777?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SMART_MUSIC-7C3AED?style=for-the-badge"/>
+
+**Music that matches your mood.**
+
+A Python desktop application that detects mood through facial expressions, voice, or manual selection and plays matching music, with YouTube integration.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepFace-DB2777?style=flat-square"/>
+<img src="https://img.shields.io/badge/EMOTION_RECOGNITION-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/AUDIO-0891B2?style=flat-square"/>
+
+<p>
+<a href="https://github.com/MUdevelops/EBMP-Emotion-Based-Music-Player"><strong>Explore Repository →</strong></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=65&text=FROM%20IDEAS%20TO%20INTELLIGENT%20APPLICATIONS&fontSize=19&fontColor=ffffff&animation=fadeIn" width="100%" alt="From Ideas to Intelligent Applications"/>
 
 <br><br>
 
 <a href="https://github.com/MUdevelops?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀_EXPLORE_ALL_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects"/>
 </a>
+
+<a href="https://github.com/MUdevelops">
+<img src="https://img.shields.io/badge/🤖_FOLLOW_MUDEVELOPS-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Follow MUdevelops"/>
+</a>
+
+<br><br>
+
+<sub>AI APPLICATION ENGINEERING · INTELLIGENT SYSTEMS · BUILD · SHIP · IMPROVE</sub>
 
 </div>
 
 ---
+
 
 <!-- ========================================================= -->
 <!-- HOW I BUILD -->
