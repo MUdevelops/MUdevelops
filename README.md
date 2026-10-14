@@ -865,16 +865,20 @@ A Python desktop application that detects mood through facial expressions, voice
 
 <br><br>
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdqYnV0ZXg5NWtxYW1xN2g0MmxpM3N5NGJmZTZ6NHplMW5hZmt2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="380" alt="Animated developer coding at a laptop"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZlOHVzdndydG4wYnN1ZGpxZzQ0MGZkOWVtNnczNTVlMjR5bTd6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="400" alt="Animated technology and digital connectivity"/>
 
 <br><br>
+
+**Let's Connect, Collaborate & Build Something Great!**
+
+<br>
 
 <a href="https://m-umar-jamal.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/MUdevelops">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/MUdevelops?tab=repositories">
