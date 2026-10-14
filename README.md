@@ -14,28 +14,6 @@
 
 <br /><br />
 
-<img src="https://komarev.com/ghpvc/?username=MUdevelops&style=flat-square&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views" />
-
-</div>
-
-<a href="https://github.com/MUdevelops">
-<img src="https://img.shields.io/badge/GitHub-MUdevelops-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://m-umar-jamal.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/MUdevelops?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=MUdevelops&label=PROFILE%20VIEWS&color=00F5A0&style=for-the-badge"/>
-
-<br><br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=5&width=850" width="80%"/>
 
 </div>
