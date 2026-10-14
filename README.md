@@ -275,67 +275,265 @@ Building maintainable, secure, and reliable software systems.
 ---
 
 <!-- ========================================================= -->
-<!-- AI ENGINEERING -->
+<!-- AI APPLICATION ENGINEERING -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:2563EB,100:06B6D4&height=90&text=🧠%20AI%20APPLICATION%20ENGINEERING&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<br><br>
-
-### 🤖 AI Systems I Work With
-
-| Area | Focus |
-| :--- | :--- |
-| 🧠 **LLM Applications** | AI-powered features, assistants & intelligent workflows |
-| 📚 **RAG** | Document retrieval, embeddings, semantic search & citations |
-| 🕸️ **AI Agents** | Tool calling, workflows & autonomous task execution |
-| 👁️ **Computer Vision** | Face recognition, image analysis & intelligent detection |
-| 📄 **Document AI** | PDF/DOCX processing, knowledge extraction & Q&A |
-| 🎙️ **Voice AI** | Speech interfaces & conversational applications |
-| ⚡ **AI Automation** | AI-powered productivity & workflow automation |
-| 🦙 **Local AI** | Local LLMs, privacy-focused AI & offline inference |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:1D4ED8,70:0EA5E9,100:7C3AED&height=100&text=AI%20APPLICATION%20ENGINEERING&fontSize=29&fontColor=ffffff&animation=fadeIn" width="100%" alt="AI Application Engineering"/>
 
 <br>
 
-### 🔄 AI Application Architecture
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&width=850&lines=LLM+APPLICATIONS+%7C+RAG+SYSTEMS+%7C+AI+AGENTS;COMPUTER+VISION+%7C+DOCUMENT+AI+%7C+VOICE+AI;FROM+AI+MODELS+TO+PRODUCTION-READY+APPLICATIONS" alt="Animated AI Engineering Specialties"/>
 
-```text
-                    USER
-                     │
-                     ▼
-              ┌──────────────┐
-              │   FRONTEND   │
-              │ React / Web  │
-              └──────┬───────┘
-                     │
-                     ▼
-              ┌──────────────┐
-              │   API LAYER  │
-              │ FastAPI /    │
-              │ REST / Auth  │
-              └──────┬───────┘
-                     │
-             ┌───────┴────────┐
-             ▼                ▼
-       ┌───────────┐    ┌────────────┐
-       │ AI ENGINE │    │  DATABASE  │
-       │ LLM / RAG │    │  SQL /     │
-       │  Agents   │    │  Vector DB │
-       └─────┬─────┘    └────────────┘
-             │
-             ▼
-       ┌─────────────┐
-       │ AI RESPONSE │
-       │  / ACTION   │
-       └─────────────┘
+<br><br>
+
+### 🧠 AI Systems I Work With
+
+<sub>
+INTELLIGENCE &nbsp; • &nbsp; RETRIEVAL &nbsp; • &nbsp; AUTOMATION &nbsp; • &nbsp; ENGINEERING
+</sub>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!-- COLORFUL AI CAPABILITY TABLE -->
+<!-- ========================================================= -->
+
+<table>
+<thead>
+<tr>
+<th align="center">AI DOMAIN</th>
+<th align="left">ENGINEERING FOCUS</th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/LLM_APPLICATIONS-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Applications"/>
+</td>
+<td>
+AI-powered features, intelligent assistants, structured generation and smart workflows.
+<br><br>
+<img src="https://img.shields.io/badge/Prompting-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Tool_Calling-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Inference-6D28D9?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/RAG_SYSTEMS-2563EB?style=for-the-badge" alt="RAG Systems"/>
+</td>
+<td>
+Grounded question answering, document retrieval, semantic search and source citations.
+<br><br>
+<img src="https://img.shields.io/badge/Embeddings-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Semantic_Search-3B82F6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Citations-1D4ED8?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/AI_AGENTS-0891B2?style=for-the-badge" alt="AI Agents"/>
+</td>
+<td>
+Tool-enabled assistants, multi-step workflows and task execution.
+<br><br>
+<img src="https://img.shields.io/badge/Tools-0891B2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Workflows-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Task_Execution-0E7490?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/COMPUTER_VISION-0D9488?style=for-the-badge" alt="Computer Vision"/>
+</td>
+<td>
+Image analysis, face recognition and intelligent visual detection.
+<br><br>
+<img src="https://img.shields.io/badge/Image_Analysis-0D9488?style=flat-square"/>
+<img src="https://img.shields.io/badge/Recognition-14B8A6?style=flat-square"/>
+<img src="https://img.shields.io/badge/Detection-115E59?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/DOCUMENT_AI-D97706?style=for-the-badge" alt="Document AI"/>
+</td>
+<td>
+PDF and DOCX processing, information extraction, document knowledge and Q&A.
+<br><br>
+<img src="https://img.shields.io/badge/PDF_Processing-D97706?style=flat-square"/>
+<img src="https://img.shields.io/badge/Extraction-F59E0B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Document_Q%26A-B45309?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/VOICE_AI-DB2777?style=for-the-badge" alt="Voice AI"/>
+</td>
+<td>
+Speech interfaces, transcription workflows and conversational experiences.
+<br><br>
+<img src="https://img.shields.io/badge/Speech-DB2777?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transcription-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/Conversation-9D174D?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/AI_AUTOMATION-16A34A?style=for-the-badge" alt="AI Automation"/>
+</td>
+<td>
+Intelligent productivity tools, repeatable workflows and automated task execution.
+<br><br>
+<img src="https://img.shields.io/badge/Productivity-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Workflows-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Automation-166534?style=flat-square"/>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/LOCAL_AI-475569?style=for-the-badge" alt="Local AI"/>
+</td>
+<td>
+Locally hosted language models, privacy-conscious processing and offline inference.
+<br><br>
+<img src="https://img.shields.io/badge/Local_LLMs-475569?style=flat-square"/>
+<img src="https://img.shields.io/badge/Privacy_First-64748B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Offline_AI-334155?style=flat-square"/>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+<br>
+
+<!-- ========================================================= -->
+<!-- FUTURISTIC AI APPLICATION ARCHITECTURE -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:07152E,50:1D4ED8,100:0891B2&height=65&text=AI%20APPLICATION%20ARCHITECTURE&fontSize=23&fontColor=ffffff&animation=fadeIn" width="100%" alt="AI Application Architecture"/>
+
+<br>
+
+<sub>
+A LAYERED VIEW OF HOW AN AI APPLICATION CONNECTS ITS INTERFACE, BACKEND, INTELLIGENCE AND DATA
+</sub>
+
+</div>
+
+<br>
+
+```mermaid
+flowchart TB
+
+    USER(["👤 USER / CLIENT"])
+
+    subgraph EXPERIENCE["01  ·  EXPERIENCE LAYER"]
+        WEB["🌐 WEB INTERFACE<br/>React · TypeScript"]
+    end
+
+    subgraph BACKEND["02  ·  APPLICATION LAYER"]
+        API["🔌 API GATEWAY<br/>FastAPI · REST · Authentication"]
+        ORCH["🧩 APPLICATION ORCHESTRATION<br/>Validation · Routing · Tool Calls"]
+    end
+
+    subgraph INTELLIGENCE["03  ·  AI INTELLIGENCE LAYER"]
+        direction LR
+        LLM["🧠 LLM ENGINE<br/>Reasoning · Generation"]
+        RAG["📚 RAG PIPELINE<br/>Retrieve · Ground · Cite"]
+        AGENT["🕸️ AI AGENTS<br/>Tools · Task Execution"]
+        VISION["👁️ VISION & DOCUMENT AI<br/>Images · PDFs · DOCX"]
+    end
+
+    subgraph DATA["04  ·  KNOWLEDGE & DATA LAYER"]
+        direction LR
+        VECTOR[("🔎 VECTOR STORE<br/>Embeddings · Semantic Search")]
+        FILES[("📄 DOCUMENT STORE<br/>Knowledge · Source Files")]
+        DB[("🗄️ SQL DATABASE<br/>Application Data")]
+    end
+
+    RESULT(["✅ RESPONSE / ACTION<br/>Answer · Citation · Tool Result"])
+
+    USER --> WEB
+    WEB -->|HTTPS Request| API
+    API -->|Validated Request| ORCH
+
+    ORCH --> LLM
+    ORCH --> RAG
+    ORCH --> AGENT
+    ORCH --> VISION
+
+    RAG <-->|Semantic Retrieval| VECTOR
+    RAG -->|Retrieve Sources| FILES
+    ORCH <-->|Read / Write| DB
+
+    LLM --> RESULT
+    RAG --> RESULT
+    AGENT --> RESULT
+    VISION --> RESULT
+
+    RESULT -->|Return Result| WEB
+
+    classDef actor fill:#0B1220,stroke:#38BDF8,color:#E0F2FE,stroke-width:3px;
+    classDef experience fill:#102A56,stroke:#60A5FA,color:#EFF6FF,stroke-width:2px;
+    classDef gateway fill:#083344,stroke:#22D3EE,color:#CFFAFE,stroke-width:2px;
+    classDef orchestration fill:#312E81,stroke:#A78BFA,color:#EDE9FE,stroke-width:2px;
+    classDef ai fill:#052E16,stroke:#4ADE80,color:#DCFCE7,stroke-width:2px;
+    classDef storage fill:#3F1D0B,stroke:#FB923C,color:#FFEDD5,stroke-width:2px;
+    classDef output fill:#064E3B,stroke:#34D399,color:#D1FAE5,stroke-width:3px;
+
+    class USER actor;
+    class WEB experience;
+    class API gateway;
+    class ORCH orchestration;
+    class LLM,RAG,AGENT,VISION ai;
+    class VECTOR,FILES,DB storage;
+    class RESULT output;
+
+    style EXPERIENCE fill:#07152E,stroke:#2563EB,stroke-width:2px,color:#BFDBFE;
+    style BACKEND fill:#081B35,stroke:#0EA5E9,stroke-width:2px,color:#BAE6FD;
+    style INTELLIGENCE fill:#061A24,stroke:#10B981,stroke-width:2px,color:#A7F3D0;
+    style DATA fill:#17152E,stroke:#8B5CF6,stroke-width:2px,color:#DDD6FE;
+
+    linkStyle default stroke:#38BDF8,stroke-width:2px,color:#BAE6FD;
 ```
+
+<br>
+
+<div align="center">
+
+### ⚡ ENGINEERING WORKFLOW
+
+<img src="https://img.shields.io/badge/01-UNDERSTAND-2563EB?style=for-the-badge" alt="Understand"/>
+<img src="https://img.shields.io/badge/02-DESIGN-7C3AED?style=for-the-badge" alt="Design"/>
+<img src="https://img.shields.io/badge/03-BUILD-0891B2?style=for-the-badge" alt="Build"/>
+<img src="https://img.shields.io/badge/04-TEST-16A34A?style=for-the-badge" alt="Test"/>
+<img src="https://img.shields.io/badge/05-SHIP-F97316?style=for-the-badge" alt="Ship"/>
+
+<br><br>
+
+<sub>
+INTELLIGENT APPLICATIONS · CONNECTED SYSTEMS · PRODUCTION-MINDED ENGINEERING
+</sub>
 
 </div>
 
 ---
-
 <!-- ========================================================= -->
 <!-- TECH STACK -->
 <!-- ========================================================= -->
