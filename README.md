@@ -12,13 +12,6 @@
 &nbsp;
 <a href="https://github.com/MUdevelops?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PROJECTS-0B1020?style=for-the-badge&logo=github&logoColor=9B8CFF&labelColor=111A2D" alt="Projects" /></a>
 
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=5&width=850" width="80%"/>
-
-</div>
-
----
 
 <!-- ========================================================= -->
 <!-- INTRO -->
