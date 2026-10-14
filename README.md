@@ -510,7 +510,7 @@ flowchart TB
     style INTELLIGENCE fill:#061A24,stroke:#10B981,stroke-width:2px,color:#A7F3D0;
     style DATA fill:#17152E,stroke:#8B5CF6,stroke-width:2px,color:#DDD6FE;
 
-    linkStyle default stroke:#38BDF8,stroke-width:2px,color:#BAE6FD;
+    linkStyle 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14 stroke:#38BDF8,stroke-width:2px;
 ```
 
 <br>
