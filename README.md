@@ -830,62 +830,6 @@ A Python desktop application that detects mood through facial expressions, voice
 
 
 <!-- ========================================================= -->
-<!-- HOW I BUILD -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=90&text=⚙️%20HOW%20I%20BUILD&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<br><br>
-
-```text
-       💡 IDEA
-          │
-          ▼
-   ┌───────────────┐
-   │    Problem    │
-   │ Understanding │
-   └───────┬───────┘
-           │
-           ▼
-   🏗️ Architecture
-           │
-           ▼
-   💻 Implementation
-           │
-      ┌────┴────┐
-      ▼         ▼
-    🤖 AI      🌐 App
-      │         │
-      └────┬────┘
-           ▼
-      🔌 Integration
-           │
-           ▼
-        🧪 Testing
-           │
-           ▼
-        🐳 Docker
-           │
-           ▼
-       🚀 Deploy
-           │
-           ▼
-      📈 Improve
-```
-
-<br>
-
-### My focus
-
-**Build → Integrate → Test → Deploy → Improve**
-
-</div>
-
----
-
-<!-- ========================================================= -->
 <!-- CURRENTLY EXPLORING -->
 <!-- ========================================================= -->
 
@@ -919,18 +863,6 @@ A Python desktop application that detects mood through facial expressions, voice
 
 <br><br>
 
-| Principle | Meaning |
-| :--- | :--- |
-| 🧩 **Solve Problems** | Technology should serve a real problem |
-| 🏗️ **Build Systems** | Think beyond isolated features |
-| 🤖 **Use AI Intentionally** | AI should improve the application |
-| 🧪 **Test** | Working software needs verification |
-| 🔐 **Build Securely** | Protect users, data and credentials |
-| 📦 **Keep It Maintainable** | Clean structure beats unnecessary complexity |
-| 🚀 **Ship** | A finished application creates more value than an unfinished idea |
-| 📈 **Keep Improving** | Every project is an opportunity to learn |
-
-<br>
 
 ### `"Don't just consume technology. Build with it."`
 
