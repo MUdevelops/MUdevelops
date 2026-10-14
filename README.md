@@ -859,30 +859,26 @@ A Python desktop application that detects mood through facial expressions, voice
 <!-- ========================================================= -->
 <!-- CONNECT -->
 <!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=90&text=🌐%20CONNECT%20WITH%20ME&fontSize=33&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=90&text=🌐%20CONNECT%20WITH%20ME&fontSize=33&fontColor=ffffff&animation=fadeIn" width="100%" alt="Connect With Me"/>
 
 <br><br>
 
-<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczdqYnV0ZXg5NWtxYW1xN2g0MmxpM3N5NGJmZTZ6NHplMW5hZmt2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/scZPhLqaVOM1qG4lT9/giphy.gif" width="380" alt="Animated developer coding at a laptop"/>
 
-<img src="./Assets/MUdevelops-Hero.gif" alt="MUdevelops — AI Application Engineering" width="100%" />
-
-</div>
 <br><br>
 
 <a href="https://m-umar-jamal.netlify.app/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/MUdevelops">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/MUdevelops?tab=repositories">
-<img src="https://img.shields.io/badge/🚀%20ALL%20PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🚀%20ALL%20PROJECTS-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
 </a>
 
 <br><br>
@@ -890,6 +886,7 @@ A Python desktop application that detects mood through facial expressions, voice
 </div>
 
 ---
+
 
 <!-- ========================================================= -->
 <!-- FOOTER -->
