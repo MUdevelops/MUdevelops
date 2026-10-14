@@ -40,54 +40,126 @@
 ---
 
 <!-- ========================================================= -->
-<!-- ABOUT -->
+<!-- APPLICATION ENGINEERING -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:06B6D4&height=85&text=🚀%20APPLICATION%20ENGINEERING&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:06B6D4&height=100&section=header&text=APPLICATION%20ENGINEERING&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<br>
+
+### Building Intelligent Applications. Engineering Complete Systems.
+
+*From AI-powered experiences to scalable, full-stack software — turning ideas into working applications.*
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-Applications-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack-Development-2563EB?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Intelligent-Systems-0891B2?style=for-the-badge&logo=brain&logoColor=white" />
+<img src="https://img.shields.io/badge/Software-Engineering-16A34A?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 <br>
 
-I am focused on **Application Engineering** — designing and building complete software systems rather than working only on isolated code or models.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-My current direction combines:
+<h3 align="center">🤖 AI APPLICATIONS</h3>
 
-```text
-┌───────────────────────────────────────────────────────┐
-│                 APPLICATION ENGINEERING                │
-├───────────────────────────────────────────────────────┤
-│                                                          │
-│   🤖 AI Applications                                    │
-│      ├── LLM Applications                               │
-│      ├── RAG Systems                                    │
-│      ├── AI Agents                                      │
-│      └── Intelligent Automation                         │
-│                                                          │
-│   🌐 Application Development                            │
-│      ├── React / TypeScript                             │
-│      ├── Python / FastAPI                               │
-│      ├── REST APIs                                      │
-│      └── Full-Stack Systems                              │
-│                                                          │
-│   🧠 Intelligent Systems                                 │
-│      ├── Computer Vision                                 │
-│      ├── Document Intelligence                           │
-│      ├── AI Assistants                                   │
-│      └── Automation                                      │
-│                                                          │
-│   ⚙️ Engineering                                        │
-│      ├── Databases                                       │
-│      ├── Authentication                                  │
-│      ├── Docker                                          │
-│      ├── Testing                                         │
-│      └── CI/CD                                           │
-│                                                          │
-└───────────────────────────────────────────────────────┘
-```
+<p align="center">
+Building useful applications powered by modern AI.
+</p>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/LLM_Applications-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG_Systems-8B5CF6?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Agents-A855F7?style=flat-square" />
+<img src="https://img.shields.io/badge/Intelligent_Automation-C084FC?style=flat-square" />
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 APPLICATION DEVELOPMENT</h3>
+
+<p align="center">
+Creating responsive interfaces and connected applications.
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Full--Stack-2563EB?style=flat-square" />
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">🧠 INTELLIGENT SYSTEMS</h3>
+
+<p align="center">
+Transforming data and workflows into smarter experiences.
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Computer_Vision-0891B2?style=flat-square" />
+<img src="https://img.shields.io/badge/Document_Intelligence-06B6D4?style=flat-square" />
+<img src="https://img.shields.io/badge/AI_Assistants-0D9488?style=flat-square" />
+<img src="https://img.shields.io/badge/Workflow_Automation-14B8A6?style=flat-square" />
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">⚙️ ENGINEERING & INFRASTRUCTURE</h3>
+
+<p align="center">
+Building maintainable, secure, and reliable software systems.
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Databases-475569?style=flat-square" />
+<img src="https://img.shields.io/badge/Authentication-64748B?style=flat-square" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Testing-16A34A?style=flat-square" />
+<img src="https://img.shields.io/badge/CI%2FCD-059669?style=flat-square" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**MY APPROACH**
+
+`Understand → Design → Build → Test → Ship`
+
+<br>
+
+<sub>Engineering complete applications, not just isolated features.</sub>
+
+</div>
 ### 💡 Engineering Philosophy
 
 > **Don't just build models. Build applications around them.**
