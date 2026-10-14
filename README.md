@@ -437,82 +437,11 @@ A LAYERED VIEW OF HOW AN AI APPLICATION CONNECTS ITS INTERFACE, BACKEND, INTELLI
 </div>
 
 <br>
+<div align="center">
 
-```mermaid
-flowchart TB
+  <img src="Assets/artitecture.png" alt="AI Application Architecture Diagram — React, FastAPI, AI Agents, RAG, Vision AI, Vector Store, Document Store, and SQL Database" width="100%" />
 
-    USER(["👤 USER / CLIENT"])
-
-    subgraph EXPERIENCE["01  ·  EXPERIENCE LAYER"]
-        WEB["🌐 WEB INTERFACE<br/>React · TypeScript"]
-    end
-
-    subgraph BACKEND["02  ·  APPLICATION LAYER"]
-        API["🔌 API GATEWAY<br/>FastAPI · REST · Authentication"]
-        ORCH["🧩 APPLICATION ORCHESTRATION<br/>Validation · Routing · Tool Calls"]
-    end
-
-    subgraph INTELLIGENCE["03  ·  AI INTELLIGENCE LAYER"]
-        direction LR
-        LLM["🧠 LLM ENGINE<br/>Reasoning · Generation"]
-        RAG["📚 RAG PIPELINE<br/>Retrieve · Ground · Cite"]
-        AGENT["🕸️ AI AGENTS<br/>Tools · Task Execution"]
-        VISION["👁️ VISION & DOCUMENT AI<br/>Images · PDFs · DOCX"]
-    end
-
-    subgraph DATA["04  ·  KNOWLEDGE & DATA LAYER"]
-        direction LR
-        VECTOR[("🔎 VECTOR STORE<br/>Embeddings · Semantic Search")]
-        FILES[("📄 DOCUMENT STORE<br/>Knowledge · Source Files")]
-        DB[("🗄️ SQL DATABASE<br/>Application Data")]
-    end
-
-    RESULT(["✅ RESPONSE / ACTION<br/>Answer · Citation · Tool Result"])
-
-    USER --> WEB
-    WEB -->|HTTPS Request| API
-    API -->|Validated Request| ORCH
-
-    ORCH --> LLM
-    ORCH --> RAG
-    ORCH --> AGENT
-    ORCH --> VISION
-
-    RAG <-->|Semantic Retrieval| VECTOR
-    RAG -->|Retrieve Sources| FILES
-    ORCH <-->|Read / Write| DB
-
-    LLM --> RESULT
-    RAG --> RESULT
-    AGENT --> RESULT
-    VISION --> RESULT
-
-    RESULT -->|Return Result| WEB
-
-    classDef actor fill:#0B1220,stroke:#38BDF8,color:#E0F2FE,stroke-width:3px;
-    classDef experience fill:#102A56,stroke:#60A5FA,color:#EFF6FF,stroke-width:2px;
-    classDef gateway fill:#083344,stroke:#22D3EE,color:#CFFAFE,stroke-width:2px;
-    classDef orchestration fill:#312E81,stroke:#A78BFA,color:#EDE9FE,stroke-width:2px;
-    classDef ai fill:#052E16,stroke:#4ADE80,color:#DCFCE7,stroke-width:2px;
-    classDef storage fill:#3F1D0B,stroke:#FB923C,color:#FFEDD5,stroke-width:2px;
-    classDef output fill:#064E3B,stroke:#34D399,color:#D1FAE5,stroke-width:3px;
-
-    class USER actor;
-    class WEB experience;
-    class API gateway;
-    class ORCH orchestration;
-    class LLM,RAG,AGENT,VISION ai;
-    class VECTOR,FILES,DB storage;
-    class RESULT output;
-
-    style EXPERIENCE fill:#07152E,stroke:#2563EB,stroke-width:2px,color:#BFDBFE;
-    style BACKEND fill:#081B35,stroke:#0EA5E9,stroke-width:2px,color:#BAE6FD;
-    style INTELLIGENCE fill:#061A24,stroke:#10B981,stroke-width:2px,color:#A7F3D0;
-    style DATA fill:#17152E,stroke:#8B5CF6,stroke-width:2px,color:#DDD6FE;
-
-    linkStyle 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14 stroke:#38BDF8,stroke-width:2px;
-```
-
+</div>
 <br>
 
 <div align="center">
@@ -936,6 +865,12 @@ A Python desktop application that detects mood through facial expressions, voice
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=90&text=🌐%20CONNECT%20WITH%20ME&fontSize=33&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <br><br>
+
+<div align="center">
+
+  <img src="Assets/MUdevelops-Hero-preview.png" alt="AI Application Architecture Diagram — React, FastAPI, AI Agents, RAG, Vision AI, Vector Store, Document Store, and SQL Database" width="100%" />
+
+</div>
 
 <a href="https://m-umar-jamal.netlify.app/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
