@@ -887,4 +887,10 @@ A Python desktop application that detects mood through facial expressions, voice
 <!-- FOOTER -->
 <!-- ========================================================= -->
 
-<img src="./Assets/footer.png" alt="MUdevelops — AI Application Engineering" width="100%" />
+<div align="center">
+  <img
+    src="./Assets/MUdevelops-Footer-Final.gif"
+    width="100%"
+    alt="MUdevelops — AI Application Engineering"
+  />
+</div>
