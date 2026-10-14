@@ -177,17 +177,97 @@ Building maintainable, secure, and reliable software systems.
 
 <br><br>
 
-| 🤖 **AI APPLICATIONS** | 🌐 **APPLICATIONS** | ⚙️ **ENGINEERING** |
-| :---------------------: | :------------------: | :------------------: |
-|    LLM Applications     |   Full-Stack Apps    |      REST APIs       |
-|       RAG Systems       |   Web Applications   |   Authentication      |
-|      AI Assistants      |     Android Apps     |      Databases        |
-|        AI Agents        |  Real-Time Systems   |       Docker          |
-|     Computer Vision     |   Developer Tools    |       Testing         |
-|  Intelligent Automation |  Productivity Apps   |        CI/CD          |
+<table>
+<tr>
+<th align="center">🤖 AI APPLICATIONS</th>
+<th align="center">🌐 APPLICATIONS</th>
+<th align="center">⚙️ ENGINEERING</th>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/LLM_Applications-7C3AED?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Full--Stack_Apps-2563EB?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/REST_APIs-0891B2?style=for-the-badge" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/RAG_Systems-06B6D4?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Web_Applications-10B981?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Authentication-E11D48?style=for-the-badge" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/AI_Assistants-DB2777?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Android_Apps-16A34A?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Databases-F59E0B?style=for-the-badge" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/AI_Agents-8B5CF6?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Real--Time_Systems-F97316?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Docker-0EA5E9?style=for-the-badge" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Computer_Vision-0D9488?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Developer_Tools-EC4899?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Testing-22C55E?style=for-the-badge" />
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/Intelligent_Automation-A3E635?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Productivity_Apps-6366F1?style=for-the-badge" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/CI%2FCD-A855F7?style=for-the-badge" />
+</td>
+</tr>
+
+</table>
 
 <br>
 
+<img src="https://img.shields.io/badge/IDEAS-00C6FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/BUILD-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/INNOVATE-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SHIP-F97316?style=for-the-badge" />
+
+</div>
+
+<br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=800&lines=Design+%E2%86%92+Develop+%E2%86%92+Integrate+%E2%86%92+Test+%E2%86%92+Deploy;AI+%2B+Software+%2B+Systems;Turning+ideas+into+working+applications" alt="Engineering Workflow"/>
 
 </div>
