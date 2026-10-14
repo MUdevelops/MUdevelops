@@ -868,7 +868,7 @@ A Python desktop application that detects mood through facial expressions, voice
 
 <div align="center">
 
-  <img src="Assets/MUdevelops-Hero-preview.png" alt="AI Application Architecture Diagram — React, FastAPI, AI Agents, RAG, Vision AI, Vector Store, Document Store, and SQL Database" width="100%" />
+<img src="./Assets/MUdevelops-Hero.gif" alt="MUdevelops — AI Application Engineering" width="100%" />
 
 </div>
 <br><br>
@@ -895,56 +895,4 @@ A Python desktop application that detects mood through facial expressions, voice
 <!-- FOOTER -->
 <!-- ========================================================= -->
 
-<!-- ========================================================= -->
-<!-- MUDEVELOPS — SIGNATURE FOOTER -->
-<!-- ========================================================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050B18,35:1D4ED8,70:7C3AED,100:06B6D4&height=3&section=header" width="100%" alt="Blue violet cyan gradient divider"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3500&pause=1200&color=38BDF8&center=true&vCenter=true&repeat=false&width=650&height=60&lines=MUdevelops" alt="MUdevelops"/>
-
-### BUILD • LEARN • INNOVATE • SHIP
-
-**Engineering intelligent applications. Turning ideas into reality.**
-
-<br/>
-
-<img src="https://img.shields.io/badge/AI_APPLICATIONS-7C3AED?style=for-the-badge&logo=openai&logoColor=white" alt="AI Applications"/>
-<img src="https://img.shields.io/badge/SOFTWARE_ENGINEERING-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Software Engineering"/>
-<img src="https://img.shields.io/badge/REAL--WORLD_PROJECTS-0891B2?style=for-the-badge&logo=rocket&logoColor=white" alt="Real-world projects"/>
-
-<br/><br/>
-
-<a href="https://github.com/MUdevelops">
-  <img src="https://img.shields.io/badge/GitHub-MUdevelops-111827?style=for-the-badge&logo=github&logoColor=white" alt="Visit MUdevelops on GitHub"/>
-</a>
-&nbsp;
-<a href="https://m-umar-jamal.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-0B1020?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Visit the MUdevelops portfolio"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1D4ED8,50:7C3AED,100:06B6D4&height=1&section=header" width="70%" alt="Subtle blue and violet divider"/>
-
-<br/>
-
-*Crafted with curiosity, powered by code, driven by AI.*
-
-<sub>AI APPLICATION ENGINEER · SOFTWARE DEVELOPER</sub>
-
-<br/>
-
-<sub>© 2026 MUdevelops · Muhammad Umar Jamal</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,50:00C6FF,100:6C63FF&height=110&section=footer" width="100%" alt="MUdevelops signature wave in cyan, green, and violet"/>
-
-</div>
-
-<!-- =============== END MUDEVELOPS FOOTER =============== -->
+<img src="./Assets/footer.png" alt="MUdevelops — AI Application Engineering" width="100%" />
