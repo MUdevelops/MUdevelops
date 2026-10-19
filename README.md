@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./Assets/MUdevelops-Hero.gif" alt="MUdevelops — AI Application Engineering" width="100%" />
+<img src="./Assets/hero.svg" alt="MUdevelops — AI Application Engineering" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=800&color=33D3FF&center=true&vCenter=true&width=900&height=50&lines=LLMs+%C2%B7+RAG+%C2%B7+AI+AGENTS;PYTHON+%C2%B7+REACT+%C2%B7+FASTAPI;FROM+IDEA+TO+WORKING+SOFTWARE;BUILD+%2F+INTEGRATE+%2F+TEST+%2F+SHIP" alt="Animated engineering focus" />
 
