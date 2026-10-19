@@ -734,7 +734,9 @@ Locally hosted language models, privacy-conscious processing and offline inferen
 
 <br />
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHZlOHVzdndydG4wYnN1ZGpxZzQ0MGZkOWVtNnczNTVlMjR5bTd6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif" width="100%" alt="Animated digital technology background" />
+<a href="https://m-umar-jamal.netlify.app/">
+  <img src="./Assets/connect.svg" width="100%" alt="Connect Now"/>
+</a>
 
 <p><b>Let's Connect, Collaborate &amp; Build Something Great!</b></p>
 
