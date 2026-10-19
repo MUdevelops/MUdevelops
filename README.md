@@ -22,16 +22,7 @@
 
 <img src="./Assets/Hello%20Coding.gif" width="100%" alt="Hello Coding Animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=90&text=🛠️%20MUHAMMAD%20UMAR%20JAMAL&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" alt="Muhammad Umar Jamal" />
-
-<h3>🤖 AI Application Engineer • 💻 Software Developer • 🌐 Application Builder</h3>
-
-<p><b>I build intelligent applications that turn ideas, models, APIs, and automation into usable software.</b></p>
-
-<blockquote><b>From idea → architecture → code → AI → API → interface → deployment.</b></blockquote>
-
-</div>
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C6FF,100:00F5A0&height=90&text=🛠️%20MUHAMMAD%20UMAR%20JAMAL&fontSize=34&fontColor=ffffff&animation=fadeIn" width="100%" alt="Muhammad Umar Jamal" /> <br/> <img src="./assets/hologram.svg" width="340" alt="Muhammad Umar Jamal – holographic portrait" /> <br/> <h3>🤖 AI Application Engineer • 💻 Software Developer • 🌐 Application Builder</h3> <p><b>I build intelligent applications that turn ideas, models, APIs, and automation into usable software.</b></p> <blockquote><b>From idea → architecture → code → AI → API → interface → deployment.</b></blockquote> </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:7C3AED,100:06B6D4&height=3" width="100%" alt="" />
 
 <!-- ========================================================= -->
