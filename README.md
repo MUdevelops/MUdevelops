@@ -307,7 +307,7 @@ Locally hosted language models, privacy-conscious processing and offline inferen
 
 <br /><br />
 
-<img src="Assets/artitecture-animation.svg" alt="AI Application Architecture Diagram — React, FastAPI, AI Agents, RAG, Vision AI, Vector Store, Document Store, and SQL Database" width="100%" />
+<img src="Assets/architecture-animation.svg" alt="AI Application Architecture Diagram — React, FastAPI, AI Agents, RAG, Vision AI, Vector Store, Document Store, and SQL Database" width="100%" />
 
 <h3>⚡ ENGINEERING WORKFLOW</h3>
 
